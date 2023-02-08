@@ -17,7 +17,8 @@ for (const i of AccName) {
 //forEach loop
 AccName.forEach(index => {
     console.log(index+" "+AccName[index])
-    //console.log(index+"  "+AccName)
+    //console.log(index+"  "+AccNam
+    
 });
 
 
