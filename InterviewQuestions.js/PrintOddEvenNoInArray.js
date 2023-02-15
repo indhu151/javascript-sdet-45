@@ -11,5 +11,5 @@ for(let i=0;i<arr.length;i++){
         Oarr.push(arr[i])
     }
 }
-console.log(Earr);
-console.log(Oarr);
+console.log(Earr); //[2,6]
+console.log(Oarr); //[3,9,5,1]

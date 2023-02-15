@@ -33,4 +33,5 @@ console.log(str.length)//to get the length of string
 // console.log(str.slice(1,5))
 // console.log(str.substring(1,5))
 console.log(str.codePointAt(5))
+
 console.log(str)

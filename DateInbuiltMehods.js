@@ -1,10 +1,10 @@
 let date=new Date()
 
 //get the date,year,month,day of week
-// console.log(date.getDate())
-// console.log(date.getDay())
-// console.log(date.getFullYear())
-// console.log(date.getMonth())
+console.log(date.getDate())
+console.log(date.getDay())
+console.log(date.getFullYear())
+console.log(date.getMonth())
 
 //get the hours,minutes,seconds
 console.log(date.getHours())

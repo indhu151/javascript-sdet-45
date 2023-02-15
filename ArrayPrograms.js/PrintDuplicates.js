@@ -16,7 +16,7 @@ for(let i=0;i<arr.length;i++)
 			}
 			if(count>1)
 			{
-				console.log(arr[i]+" "+count);
+				console.log(arr[i]+"--->"+count);
 			}
 		}
     

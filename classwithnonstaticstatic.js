@@ -6,17 +6,17 @@ class person{
      a=10;
     static b=5;
    static demo(){
-        var a=30
+        //var a=30
         console.log(this.a)
         console.log(this.b)
         var p=new person()
         console.log(p.a)
-        console.log(a)
+        //console.log(a)
     }
     sample(){
-       a=10
+      // let a=10
         console.log(this.a)
-        console.log(this.a)
+        //console.log(this.a)
         console.log(this.b)
         console.log(person.b)
     }
@@ -29,4 +29,4 @@ class person{
 //  console.log(data.b)
 //  console.log(person.b)
 person.demo()
-//data.sample()
+data.sample()

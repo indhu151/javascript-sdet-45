@@ -1,10 +1,10 @@
 class Account{
-    $name="Rahul"
+    #name="Rahul"
     
     get details(){
-        return this.$name
+        return this.#name
     }
 }
 Accdetails=new Account()
 //Accdetails.name="divya"
-console.log(Accdetails.name)
+console.log(Accdetails.details)

@@ -16,7 +16,7 @@ var countU=0
                 countE++;
 			}
 			else if(ch=='I'||ch=='i'){
-                CustomElementRegistry++;
+                countI++;
 			}
 			else if(ch=='O'||ch=='o'){
                 countO++;

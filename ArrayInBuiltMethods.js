@@ -27,6 +27,7 @@ console.log(arr)
 // function studentData(data)
 // {
 //     return data>3
+
 // }
 //console.log(arr.filter(studentData))
 //console.log(arr)
@@ -41,4 +42,6 @@ console.log(arr)
 //console.log(arr.map(studentData))
 //console.log(arr)
 //console.log(arr.sort())
+var ar=arr.entries()
+console.log(ar);
 

@@ -3,7 +3,7 @@ let Account={
     age:27,
     AccType:"Savings",
     Accdetails:function (){
-        return "all the details of customer"
+        return this.age
     }
 }
 data=Object.create(Account)
